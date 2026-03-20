@@ -6,7 +6,8 @@
 ---
 
 ## 🔥 Featured Project
-- 🧠 HealthLens AI – AI-based health risk prediction system  
+- 🧠 HealthLens AI – AI-based health risk prediction system
+- 🌸 AuraFlow - A minimalist "glassmorphism" sanctuary for tracking tasks, exams, and daily journals
 
 ---
 
@@ -19,8 +20,9 @@
 ---
 
 ## 📈 What I'm Working On
-- Improving HealthLens AI  
-- Learning advanced ML models  
+- Learning Data Structures  
+- Learning advanced ML models
+- Learning Backend Development
 
 ---
 
