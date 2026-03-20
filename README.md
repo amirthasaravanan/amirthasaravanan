@@ -5,7 +5,7 @@
 
 
 ## 🔥 Featured Project
-- 🧠 HealthLens AI – AI-based health risk prediction system
+- 🧠 HealthLens AI – AI-based health risk prediction system and simpliefies complex medical reports.
 - 🌸 AuraFlow Productivity Engine –  A minimalist "glassmorphism" sanctuary for tracking tasks, exams, and daily journals
 
 
