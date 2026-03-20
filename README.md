@@ -6,7 +6,7 @@
 
 ## 🔥 Featured Project
 - 🧠 HealthLens AI – AI-based health risk prediction system
-- 🌸 AuraFlow - A minimalist "glassmorphism" sanctuary for tracking tasks, exams, and daily journals
+- 🌸 AuraFlow Productivity Engine –  A minimalist "glassmorphism" sanctuary for tracking tasks, exams, and daily journals
 
 
 
