@@ -11,7 +11,11 @@
   
 💡Note: Check out the sample medical report from the HealthLens AI GitHub repository below to test the app instantly.
 
+
 - 🌸 AuraFlow Productivity Engine –  A minimalist "glassmorphism" sanctuary for tracking tasks, exams, and daily journals
+
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-AuraFlow-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://auraflowproductivityapp.netlify.app/)
+
 
 
 
