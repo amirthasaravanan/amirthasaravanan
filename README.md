@@ -6,6 +6,9 @@
 
 ## 🔥 Featured Project
 - 🧠 HealthLens AI – AI-based health risk prediction system and simpliefies complex medical reports.
+
+   [![Live Demo](https://img.shields.io/badge/Live%20Demo-HealthLens%20AI-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://healthlens-ai-ub8m.onrender.com/)
+
 - 🌸 AuraFlow Productivity Engine –  A minimalist "glassmorphism" sanctuary for tracking tasks, exams, and daily journals
 
 
