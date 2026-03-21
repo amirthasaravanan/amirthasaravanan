@@ -1,4 +1,4 @@
-# Hi 👋, I'm Amirtha Saravanan
+# Hi 👋, I'm Amirtha Varshini
 
 🚀 Aspiring AI-Integrated Software Developer | Machine Learning Enthusiast |💡 Interested in building real-world projects
 
