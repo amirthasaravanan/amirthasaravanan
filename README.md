@@ -22,9 +22,9 @@
 ## 🛠️ Tech Stack
 - Python, Machine Learning  
 - HTML, CSS, JavaScript  
-- Git & GitHub
-- Flask
-- AI Integration
+- Git, Github,Netlify, Render
+- Flask, Django
+- API Integration
 
 
 
